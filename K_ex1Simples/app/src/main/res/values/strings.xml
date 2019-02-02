@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">K_ex1Simples</string>
+    <string name="mTeacher">учитель</string>
+    <string name="mStudent">Студент</string>
+</resources>
